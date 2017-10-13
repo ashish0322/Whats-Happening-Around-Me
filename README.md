@@ -77,7 +77,7 @@ With these many features and options, we have build a technology to allow anyone
 
 i) Clone the WHAM repository into your local system using following commands:<br/>
 ```
-git clone https://github.com/ashish0322/WHAM.git
+git clone https://github.com/ashish0322/Whats-Happening-Around-Me.git
 ```
 * *Possible errors*:<br/>
 While cloning repository you might get an error saying 'git.exe' not found:<br/>
