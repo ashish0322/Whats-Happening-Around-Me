@@ -1,6 +1,4 @@
-/**
- * Created by Nitin on 11/13/2015.
- */
+
 //alert('Before Ajax');
 $(document).ready(function(){
     $("#registerUser").click(function(event){
