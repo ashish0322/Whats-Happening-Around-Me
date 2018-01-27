@@ -1,6 +1,4 @@
-/**
- * Created by Vikas on 11/26/15.
- */
+
 
 var endLat="";
 var endLong="";
