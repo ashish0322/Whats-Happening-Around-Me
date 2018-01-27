@@ -1,6 +1,4 @@
-/**
- * Created by Vikas on 11/21/15.
- */
+
 var categoryType;
 var date="This Week";
 $("#footer").hide();
