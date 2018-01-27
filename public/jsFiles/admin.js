@@ -1,6 +1,4 @@
-/**
- * Created by Vikas on 12/3/15.
- */
+
 // Logout user
 function logout(){
     $.ajax({
