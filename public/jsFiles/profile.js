@@ -1,6 +1,4 @@
-/**
- * Created by Vikas  on 11/17/2015.
- */
+
 var userPreferences = {};
 var prefString = "";
 var userPreferencesList = [];
