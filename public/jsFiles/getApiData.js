@@ -1,6 +1,4 @@
-/**
- * Created by sanjiv on 11/11/2015.
- */
+
 
 window.onload =  function () {
     $.ajax({
